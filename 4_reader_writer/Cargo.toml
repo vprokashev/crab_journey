@@ -1,5 +1,5 @@
 [package]
-name = "page_table"
+name = "hw_4_reader_writer"
 version = "0.1.0"
 edition = "2024"
 

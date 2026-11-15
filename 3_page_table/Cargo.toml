@@ -1,5 +1,5 @@
 [package]
-name = "ba01"
+name = "hw_3_page_table"
 version = "0.1.0"
 edition = "2024"
 

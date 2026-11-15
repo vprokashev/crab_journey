@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "page_table"
+name = "hw_1_hello_world_1"
 version = "0.1.0"
