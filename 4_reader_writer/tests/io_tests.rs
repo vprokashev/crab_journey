@@ -1,6 +1,6 @@
 use std::{fs, io};
 
-use hw::{MyBufReader, MyBufWriter, copy_fast, copy_slow, generate_input_file};
+use hw_4_reader_writer::{MyBufReader, MyBufWriter, copy_fast, copy_slow, generate_input_file};
 
 #[test]
 fn my_buf_reader_reads_all_bytes() -> io::Result<()> {

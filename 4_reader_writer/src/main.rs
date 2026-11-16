@@ -1,6 +1,6 @@
 use std::{fs, io, time::Instant};
 
-use hw::{RECORD_SIZE, copy_fast, copy_slow, generate_input_file};
+use hw_4_reader_writer::{RECORD_SIZE, copy_fast, copy_slow, generate_input_file};
 
 const BENCH_RECORD_COUNT: usize = 640_000;
 
